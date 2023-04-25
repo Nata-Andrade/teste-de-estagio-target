@@ -1,3 +1,4 @@
+//Este é o código de um programa que "inverte" uma dada string
 #include <stdio.h>
 #include <string.h>
 
