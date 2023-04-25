@@ -1,3 +1,4 @@
+//Este é o código de um programa que capaz de determinar se um dado número pertence ou não à sequência de Fibonacci
 #include <stdio.h>
 
 int main(void){
